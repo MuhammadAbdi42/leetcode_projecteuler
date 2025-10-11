@@ -1,1 +1,1 @@
-# aprilfoolsjoke
+print('aprilfoolsjoke')
